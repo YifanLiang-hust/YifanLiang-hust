@@ -123,8 +123,8 @@
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@430d019a-7387-432c-9743-4720b49f0d48/b469808b-873b-4950-80c9-aa4f30007525.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@430d019a-7387-432c-9743-4720b49f0d48/fe19affb-a76f-4de0-8479-3e80d647aeb2.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
