@@ -7,9 +7,7 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/coding.gif" />
+    <img src="assets/images/developer.svg" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
