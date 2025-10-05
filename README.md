@@ -173,15 +173,6 @@
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="./github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
 <table>
   <tr>
     <td><img src="./github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
@@ -201,7 +192,7 @@
   </tr>
   <tr>
     <td><img src="./github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="./github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="./github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
   <tr>
     <td><img src="./github-metrics/stars.svg" alt="stars" /></td>
