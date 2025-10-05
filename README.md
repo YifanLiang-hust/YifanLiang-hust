@@ -101,7 +101,7 @@
   <tr>
     <td>
       <picture>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YifanLiang-hust&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YifanLiang-hust&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
       </picture>
   </tr>
 </table>
