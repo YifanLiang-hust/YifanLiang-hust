@@ -1,14 +1,14 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my Github!&center=true&size=27)](https://git.io/typing-svg)
+
+  [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my Github!&center=true&size=27>)](https://git.io/typing-svg)
 
 
   <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <img src="assets/images/developer.svg" />
-  </picture>
+<picture>
+  <img src="assets/images/developer.svg" width="250" height="250" alt="developer" />
+</picture>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -30,22 +30,19 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
 
-#  🙋 Hello
 
 <table>
   
 <tr><td>
 
-### 🤺 About Me
+### 🙋 About Me
 
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/jobs.png" /> -->
+<!-- <img align="right" width="88" src="./assets/images/jobs.png" /> -->
 
 <p>&emsp;&emsp;👋 Hello! I'm Yifan Liang, a first-year graduate student from Huazhong University of Science and Technology(HUST).</p>
 <p>&emsp;&emsp;🎓 I major in Intelligence Science and Technolgy, supervised by Prof. Xiang Xiang.</p>
@@ -59,7 +56,7 @@
 
 ### 🏫 Study Experience
 
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/yuanze.png" /> -->
+<!-- <img align="right" width="88" src="./assets/images/yuanze.png" /> -->
 
 - [华中科技大学人工智能与自动化学院](https://aia.hust.edu.cn/) &emsp; 📌 2025-09 —— 2028-06(Expected)
 
@@ -67,7 +64,7 @@
   - Major：Intelligence Science and Technolgy
   - Degree: Master(Expected)
 
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/tuhui.png" /> -->
+<!-- <img align="right" width="88" src="./assets/images/tuhui.png" /> -->
 
 - [华中科技大学人工智能与自动化学院](https://aia.hust.edu.cn/) &emsp; 📌 2021-09 —— 2025-06
 
@@ -85,29 +82,25 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/hr.gif" />
+<img width="200%" src="./assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/left.png" />
+<img align="left" width="150" src="./assets/images/left.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YifanLiang-hust&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YifanLiang-hust&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YifanLiang-hust&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/right.png" />
+<img align="right" width="150"  src="./assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/base.svg" />
+<img src="./github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YifanLiang-hust&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YifanLiang-hust&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=YifanLiang-hust&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
@@ -116,7 +109,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/hr.gif" />
+<img width="200%" src="./assets/images/hr.gif" />
 
 <div align="center" >
   
@@ -138,12 +131,9 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/hr.gif" />
+<img width="200%" src="./assets/images/hr.gif" />
 
 <div align="center" >
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
@@ -155,76 +145,72 @@
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 
 <!-- svg and gif-->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/github.webp">
+<img height="100" width="100" src="./assets/images/html.webp">
+<img height="100" width="100" src="./assets/images/cssgif.webp">
+<img height="100" width="100" src="./assets/images/vscode.webp">
+<img height="95" width="95" src="./assets/images/vue.webp">
+<img height="100" width="100" src="./assets/images/python.webp">
+<img height="100" width="100" src="./assets/images/js.webp">
+<img height="100" width="100" src="./assets/images/github.webp">
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/hr.gif" />
+<img width="200%" src="./assets/images/hr.gif" />
 
+
+### Github Metrics
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="./github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="./github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="./github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="./github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="./github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="./github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="./github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="./github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="./github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="./github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="./github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="./github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="./github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" /> -->
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/YifanLiang-hust/YifanLiang-hust/assets/images/icon.png" /></div>
+<img src="./assets/images/icon.png" /></div>
 </div>
