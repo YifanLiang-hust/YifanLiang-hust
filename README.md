@@ -97,14 +97,14 @@
 <img src="./github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <picture>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=YifanLiang-hust&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
       </picture>
   </tr>
-</table>
+</table> -->
 
 </div>
 
@@ -205,11 +205,3 @@
 <!-- just img 图片 -->
 <img src="./assets/images/icon.png" /></div>
 </div>
-
-<!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://guoqi.dev/posts/kunlunchao/)
-- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://guoqi.dev/posts/yuanze/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://guoqi.dev/posts/xizang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://guoqi.dev/posts/zhuhai/)
-<!-- feed end -->
