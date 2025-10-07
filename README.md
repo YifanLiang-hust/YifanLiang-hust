@@ -121,12 +121,12 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YifanLiang-hust&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br> -->
 
 <!-- Wakatime Graph-->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://wakatime.com/share/@430d019a-7387-432c-9743-4720b49f0d48/b469808b-873b-4950-80c9-aa4f30007525.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@430d019a-7387-432c-9743-4720b49f0d48/fe19affb-a76f-4de0-8479-3e80d647aeb2.svg" width="500" alt="Wakatime"/></td>
   </tr>
-</table>
+</table> -->
 
 </div>
 
