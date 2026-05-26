@@ -45,9 +45,11 @@
 <!-- <img align="right" width="88" src="./assets/images/jobs.png" /> -->
 
 <p>&emsp;&emsp;👋 Hello! I'm Yifan Liang, a first-year graduate student from Huazhong University of Science and Technology(HUST).</p>
-<p>&emsp;&emsp;🎓 I major in Intelligence Science and Technolgy, supervised by Prof. Xiang Xiang.</p>
-<p>&emsp;&emsp;🔬 My study interests lies in <strong>Trustworthy AI System</strong>, including out-of-distribution detection, multimodal content understanding, and so on.</p>
-<p>&emsp;&emsp;😃 Researchers are welcome to communicate and collaborate!</p>
+<p>&emsp;&emsp;🎓 I major in Intelligence Science and Technolgy and expect to graduate in 2028.</p>
+<p>&emsp;&emsp;🔬 My study interests lie in <strong> out-of-distribution detection (with a 
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.pdf" target="_blank" rel="noopener noreferrer" title="Read the CVPR 2025 Highlight paper">CVPR 2025 Highlight paper</a>) and LLM post-training (with industry collaboration)</strong>.</p>
+<p>&emsp;&emsp;😃 Researchers are welcome to communicate and collaborate!
+Also open to internship opportunities in <strong>post-training</strong>, <strong>agent application</strong> and so on. E-mail: yfl@hust.edu.cn.</p>
 <!-- <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p> -->
 
 </td></tr>
@@ -58,19 +60,16 @@
 
 <!-- <img align="right" width="88" src="./assets/images/yuanze.png" /> -->
 
-- [华中科技大学人工智能与自动化学院](https://aia.hust.edu.cn/) &emsp; 📌 2025-09 —— 2028-06(Expected)
-
-  - School：School of Artificial Intelligence and Automation(AIA)
-  - Major：Intelligence Science and Technolgy
-  - Degree: Master(Expected)
+- [Huazhong University of Science and Technology]() &emsp; 📌 2025.09 —— 2028.06
+  - 👨‍🎓 Master of Engineering (Expected) in Intelligence Science and Technology
 
 <!-- <img align="right" width="88" src="./assets/images/tuhui.png" /> -->
 
-- [华中科技大学人工智能与自动化学院](https://aia.hust.edu.cn/) &emsp; 📌 2021-09 —— 2025-06
+- [Huazhong University of Science and Technology]() &emsp; 📌 2021.09 —— 2025.06
+  - 👨‍🎓 Bachelor of Engineering in Artificial Intelligence
+  - 🏆 Honored Graduate
+  - 🥇 First Prize in the 18th "Challenge Cup" Competition
 
-  - School：School of Artificial Intelligence and Automation(AIA)
-  - Major：Artificial Intelligence
-  - Degree: Bachelor
 
 </td></tr>
 
@@ -87,11 +86,11 @@
 <div align="center">
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="./assets/images/left.png" />
-<picture>
+<!-- <img align="left" width="150" src="./assets/images/left.png" /> -->
+<!-- <picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YifanLiang-hust&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="./assets/images/right.png" />
+<img align="right" width="150"  src="./assets/images/right.png" /> -->
 
 <!-- metrics 基础资料 -->
 <img src="./github-metrics/base.svg" />
@@ -109,12 +108,12 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="./assets/images/hr.gif" />
+<!-- <img width="200%" src="./assets/images/hr.gif" /> -->
 
 <div align="center" >
   
 <!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=YifanLiang-hust&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=YifanLiang-hust&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
 <!-- GitHub 数据统计 -->
 <!-- <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YifanLiang-hust&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -135,32 +134,31 @@
 
 <div align="center" >
 
-<!--  skill badge 技能徽章 -->
+<!-- svg and gif-->
+<img height="100" width="100" src="./assets/images/html.webp">
+<img height="100" width="100" src="./assets/images/cssgif.webp">
+<!-- <img height="100" width="100" src="./assets/images/vscode.webp"> -->
+<img height="95" width="95" src="./assets/images/vue.webp">
+<img height="100" width="100" src="./assets/images/python.webp">
+<img height="100" width="100" src="./assets/images/js.webp">
+<!-- <img height="100" width="100" src="./assets/images/github.webp"> -->
 
+<!--  skill badge 技能徽章 -->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+<!-- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat) -->
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 
-<!-- svg and gif-->
-<img height="100" width="100" src="./assets/images/html.webp">
-<img height="100" width="100" src="./assets/images/cssgif.webp">
-<img height="100" width="100" src="./assets/images/vscode.webp">
-<img height="95" width="95" src="./assets/images/vue.webp">
-<img height="100" width="100" src="./assets/images/python.webp">
-<img height="100" width="100" src="./assets/images/js.webp">
-<img height="100" width="100" src="./assets/images/github.webp">
-
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" />
 </picture>
 
 </div>
@@ -182,10 +180,10 @@
     <td><img src="./github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="./github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><img src="./github-metrics/wakatime.svg" alt="wakatime" /></td>
     <td><img src="./github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
+  </tr> -->
   <tr>
     <td><img src="./github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
     <td><img src="./github-metrics/calendar.full.svg" alt="calendar.full" /></td>

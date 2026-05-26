@@ -4,7 +4,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 0"
+    # 每周日 00:00 运行一次
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
@@ -31,7 +32,7 @@ jobs:
           # 此插件为文档中的 🙋 Introduction
           plugin_introduction: yes
           # 此插件为文档中的 🎫 Gists
-          plugin_gists: yes
+          # plugin_gists: yes
           # 此插件为文档中的 💫 Star lists
           # plugin_starlists: yes
           # plugin_starlists_limit_repositories: 2
@@ -189,25 +190,25 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
-      # 🗨️ Stack Overflow
-      - name: Top answers from stackoverflow
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stackoverflow.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
+      # # 🗨️ Stack Overflow
+      # - name: Top answers from stackoverflow
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/stackoverflow.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     base: ""
+      #     plugin_stackoverflow: yes
+      #     plugin_stackoverflow_user: 1
+      #     plugin_stackoverflow_sections: answers-top
+      #     plugin_stackoverflow_limit: 2
 
-      # ⏰ WakaTime
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+      # # ⏰ WakaTime
+      # - name: WakaTime
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/wakatime.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     base: ""
+      #     plugin_wakatime: yes
+      #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+      #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
