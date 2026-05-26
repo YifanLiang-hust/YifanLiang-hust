@@ -60,12 +60,12 @@ Also open to internship opportunities in <strong>post-training</strong>, <strong
 
 <!-- <img align="right" width="88" src="./assets/images/yuanze.png" /> -->
 
-- [Huazhong University of Science and Technology]() &emsp; 📅 2025.09 —— 2028.06
+- *Huazhong University of Science and Technology* &emsp; 📅 2025.09 —— 2028.06
   - 👨‍🎓 Master of Engineering (Expected) in Intelligence Science and Technology
 
 <!-- <img align="right" width="88" src="./assets/images/tuhui.png" /> -->
 
-- [Huazhong University of Science and Technology]() &emsp; 📅 2021.09 —— 2025.06
+- *Huazhong University of Science and Technology* &emsp; 📅 2021.09 —— 2025.06
   - 👨‍🎓 Bachelor of Engineering in Artificial Intelligence
   - 🏆 Honored Graduate
   - 🥇 First Prize in the 18th "Challenge Cup" Competition
